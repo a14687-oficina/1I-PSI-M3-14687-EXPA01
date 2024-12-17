@@ -4,12 +4,11 @@
 <h2>Como Funciona</h2>
     <ol>
         <li>O programa importa a biblioteca <code>random</code> para gerar números aleatórios.</li>
-        <li>Uma função chamada <code>scoreboard</code> é definida para exibir a pontuação, mas contém um erro na lógica de incremento.</li>
-        <li>A função <code>main</code> é onde a lógica principal do jogo acontece:</li>
+        <li>A função <code>main</code> é onde está o código do jogo:</li>
         <ul>
             <li>Um número aleatório é gerado entre 1 e 20.</li>
-            <li>O jogador é solicitado a escolher um número e tem 6 tentativas para adivinhar corretamente.</li>
-            <li>Após cada tentativa, o programa informa se o número escolhido é maior ou menor que o número aleatório.</li>
-            <li>Se o jogador acertar, uma mensagem de sucesso é exibida e a função <code>scoreboard</code> é chamada.</li>
-            <li>Se as tentativas se esgotarem, o programa informa o número correto e termina.</li>
+            <li>O jogador é tem que escolher um número e tem 6 tentativas para adivinhar o número aleatório.</li>
+            <li>Depois de cada tentativa, o programa diz se o número escolhido é maior ou menor que o número aleatório.</li>
+            <li>Se o jogador acertar, é mostrada uma mensagem dizendo que acertou.</li>
+            <li>Se as tentativas acabarem, o programa diz o número correto e o programa termina.</li>
         </ul>
