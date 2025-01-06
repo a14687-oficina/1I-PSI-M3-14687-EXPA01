@@ -12,3 +12,4 @@
             <li>Se o jogador acertar, é mostrada uma mensagem a dizer que acertou.</li>
             <li>Se as tentativas acabarem, o programa diz o número correto e o programa termina.</li>
         </ul>
+</ol>
