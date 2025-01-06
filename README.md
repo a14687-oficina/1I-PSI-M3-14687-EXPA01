@@ -7,8 +7,8 @@
         <li>A função <code>main</code> é onde está o código do jogo:</li>
         <ul>
             <li>Um número aleatório é gerado entre 1 e 20.</li>
-            <li>O jogador é tem que escolher um número e tem 6 tentativas para adivinhar o número aleatório.</li>
+            <li>O jogador é que tem que escolher um número e tem 6 tentativas para adivinhar o número aleatório.</li>
             <li>Depois de cada tentativa, o programa diz se o número escolhido é maior ou menor que o número aleatório.</li>
-            <li>Se o jogador acertar, é mostrada uma mensagem dizendo que acertou.</li>
+            <li>Se o jogador acertar, é mostrada uma mensagem a dizer que acertou.</li>
             <li>Se as tentativas acabarem, o programa diz o número correto e o programa termina.</li>
         </ul>
